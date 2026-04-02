@@ -1,0 +1,5 @@
+exchange,round,regime,action_a,action_b,a_gamma,a_omega,a_veil,a_panic,a_collapse,a_mode,b_gamma,b_omega,b_veil,b_panic,b_collapse,b_mode,a_fatigue,b_fatigue
+1,1,feelout,body_hook,clinch,0.0518,0.7245,0.441,0.35,False,none,0.0777,0.6016,0.3353,0.45,False,none,0.0042,0.0028
+2,1,feelout,clinch,body_hook,0.0737,0.6524,0.2212,0.35,False,none,0.1257,0.4992,0.1156,0.7461,False,none,0.007,0.007
+3,1,brawl,clinch,shell,0.1106,0.5573,0.0924,0.6214,False,none,0.2329,0.3163,0.0183,1.0,False,none,0.0098,0.0077
+4,1,brawl,cross,jab,0.2078,0.381,0.02,0.8939,False,none,0.4088,0.0362,0.0002,1.0,False,none,0.0136,0.0094

@@ -1,0 +1,4 @@
+exchange,round,regime,action_a,action_b,a_gamma,a_omega,a_veil,a_panic,a_collapse,a_mode,b_gamma,b_omega,b_veil,b_panic,b_collapse,b_mode,a_fatigue,b_fatigue
+1,1,feelout,ground_stomp,jab,0.0443,0.7326,0.4634,0.3,False,none,0.1096,0.582,0.3173,0.7445,False,none,0.0056,0.0018
+2,1,feelout,jab,reset,0.0162,0.7139,0.2874,0.3,False,none,0.2242,0.3923,0.0633,1.0,False,none,0.0074,0.0032
+3,1,brawl,cross,body_hook,0.0404,0.6602,0.1543,0.5718,False,none,0.4143,0.0822,0.0017,1.0,False,none,0.0112,0.0074
